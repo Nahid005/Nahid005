@@ -1,4 +1,4 @@
-### Hi there 👋, Hey this is Nahid Hassan
+### Hi there 👋, this is Nahid Hassan
 #### Frontend Developer 
 Dynamic software developer with 2+ years of experience in Java Script programming, testing, and implementation. Skilled with software development. Proven ability to collaborate with teams and clients on project delivery, including requirements management, customization, programming, and deployment. Excellent knowledge of web programming with frontend and backend technologies, including, Javascript, Reactjs, Nodejs, Expressjs, MongoDB, CSS, jQuery, HTML, bootstrap, Tailwindcss, Git & Github, Capable of translating user requirements into new features and functionality through and optimizing user-friendly interfaces and software capabilities through the integration of latest technologies and techniques, having experience in all phases of SDLC.
 
