@@ -10,6 +10,3 @@ Skills: JAVASCRIPT / REACT / HTML / CSS / TAILWIND CSS / BOOTSTRAP / BEM / STYLE
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: nahidhassan9258@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nahid005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nahid005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nh-hassan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahidhassan005/)  
-
